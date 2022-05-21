@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Waldo33
 - 👀 I’m interested in web-development
 - 🌱 I’m currently learning Javascript and sometimes Python
-- 💞️ I’m looking to collaborate on ...
 - 📫 telegram @ts3r34
 
 <!---
