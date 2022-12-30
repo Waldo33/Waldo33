@@ -8,7 +8,7 @@ I've learning to code for 2 years and resently found a job in this field. Really
 
 * 🌍  I'm based in Vologda, Russia.
 * 🖥️  See my portfolio at [here](http://tserkovnikov.ru)
-* ✉️  You can contact me at [evgenijtser@gmail.com](mailto:evgenijtser@gmail.com)
+* ✉️You can contact me at [evgenijtser@gmail.com](mailto:evgenijtser@gmail.com)
 * 🧠  I'm learning React, Redux Toolkit, Typescript
 * 🤝  I'm open to collaborating on interesting projects.
 
