@@ -26,4 +26,6 @@ I've learning to code for 2 years and resently found a job in this field. Really
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a>
 </p>
 
+### Codewars
+
 [![codewars](https://www.codewars.com/users/Waldo33/badges/large)](https://www.codewars.com/users/Waldo33)  
