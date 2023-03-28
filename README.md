@@ -29,4 +29,4 @@ I've learning to code for 2 years and resently found a job in this field. Really
 
 [![codewars](https://www.codewars.com/users/Waldo33/badges/large)](https://www.codewars.com/users/Waldo33)  
 
-<div align="center"><img src="https://github.com/rollergod/rollergod/blob/output/github-contribution-grid-snake.svg" /></div>
+<div align="center"><img src="./assets/github-contribution-grid-snake.svg" /></div>
