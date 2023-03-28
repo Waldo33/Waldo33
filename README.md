@@ -28,3 +28,5 @@ I've learning to code for 2 years and resently found a job in this field. Really
 ### Codewars
 
 [![codewars](https://www.codewars.com/users/Waldo33/badges/large)](https://www.codewars.com/users/Waldo33)  
+
+<h1 align="center"> <img src="https://github.com/rollergod/rollergod/blob/output/github-contribution-grid-snake.svg" /> </h1>
