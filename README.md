@@ -30,3 +30,11 @@ I've learning to code for 2 years and resently found a job in this field. Really
 [![codewars](https://www.codewars.com/users/Waldo33/badges/large)](https://www.codewars.com/users/Waldo33)  
 
 <div align="center"><img src="https://github.com/Waldo33/Waldo33/blob/output/github-contribution-grid-snake.svg" /></div>
+
+```mermaid
+flowchart LR
+A[Hard] -->|Text| B(Round)
+B --> C{Decision}
+C -->|One| D[Result 1]
+C -->|Two| E[Result 2]
+```
