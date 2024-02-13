@@ -4,7 +4,7 @@ Hi 👋 My name is Eugene Tserkovnikov
 Frontend-developer
 -------------------------
 
-I've learning to code for 2 years and resently found a job in this field. Really found a passion for Frontend development.
+I've learning to code for 3 years and resently found a job in this field. Really found a passion for Frontend development.
 
 * 🌍  I'm based in Vologda, Russia.
 * 🖥️  See my portfolio at [here](http://tserkovnikov.ru)
