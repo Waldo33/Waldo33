@@ -1,7 +1,7 @@
 Hi 👋 My name is Eugene Tserkovnikov
 ====================================
 
-Junior frontend-developer
+Frontend-developer
 -------------------------
 
 I've learning to code for 2 years and resently found a job in this field. Really found a passion for Frontend development.
