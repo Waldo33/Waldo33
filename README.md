@@ -5,7 +5,7 @@ Frontend-developer
 -------------------------
 
 * 🌍  I'm based in Vologda, Russia.
-* ✉️You can contact me at [evgenijtser@gmail.com](mailto:evgenijtser@gmail.com)
+* ✉️ You can contact me at [evgenijtser@gmail.com](mailto:evgenijtser@gmail.com)
 * 🧠  I'm work with JS/TS and React.
 
 ### Skills
